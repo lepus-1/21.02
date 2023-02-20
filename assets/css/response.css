@@ -1,0 +1,19 @@
+@media screen and (max-width: 500px) {
+   nav{
+    display: none;
+   }
+   .burger{
+    display: block;
+    margin-right: 20px;
+   }
+   .sec_2 p{
+    font-size: 30px;
+   }
+   .project_box {
+      justify-content: center;
+     
+   }
+   .project_card{
+      margin-bottom: 20px;
+   }
+  }
